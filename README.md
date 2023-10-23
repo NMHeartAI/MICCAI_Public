@@ -48,6 +48,6 @@ Please refer to [MICCAI-ARCADE](https://github.com/NMHeartAI/MICCAI_ARCADE.git) 
 
 
 ## Contact Us
-Feel free to contact me at huilin2023@u.northwestern.edu
+Feel free to contact us: huilin2023@u.northwestern.edu; tom.liu@northwestern.edu
 
 ## To-do List
